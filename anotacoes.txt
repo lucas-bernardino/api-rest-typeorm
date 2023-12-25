@@ -1,0 +1,6 @@
+sistema que simulará um sistema academico.
+terá salas, cada um com o nome e id.
+terá vídeos, onde será um room_id, titulo, url e id (relacao com as salas)
+terá subjects
+terá room_subject, que guardara o room_id e subject_id.
+
